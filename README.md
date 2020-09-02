@@ -11,5 +11,5 @@ Toy Robot Simulator
   - Output will be shown in Console.
   
 * I have developed a robust code that will not let robot fall fron 5*5 table.
-* I tried to keep code readble.
+* I tried to keep code readable.
 * I also use multiple cases to test the project.
